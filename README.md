@@ -19,6 +19,7 @@ It uses Swift Package Manager and should be able to target 10.10 and later.
 ## Notes and Warnings
 
 `stringsdict` generator uses some magic and hardcoded values since `xliff` does not contain all needed information. This includes following keys:
+
 Key | Value
 ---- | -----
 NSStringFormatSpecTypeKey | NSStringPluralRuleType
