@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftCLI",
+        "repositoryURL": "https://github.com/jakeheis/SwiftCLI.git",
+        "state": {
+          "branch": null,
+          "revision": "2f9325de7dcaa368ce5a3710b04d9df572725b14",
+          "version": "5.3.0"
+        }
+      },
+      {
+        "package": "XMLCoder",
+        "repositoryURL": "https://github.com/MaxDesiatov/XMLCoder.git",
+        "state": {
+          "branch": null,
+          "revision": "80fdf8cd6845a2175ddbf3e03a652c27215960be",
+          "version": "0.5.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
